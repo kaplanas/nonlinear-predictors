@@ -4,5 +4,5 @@ A guide to some techniques for handling continuous predictors in a regression mo
 
 ## Links
 
-- A [vignette](https://kaplanas.github.io/nonlinear-predictors/nonlinear_predictors.html) with sample code
+- A [vignette](https://kaplanas.github.io/nonlinear-predictors/index.html) with sample code
 
